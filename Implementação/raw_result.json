@@ -1,0 +1,794 @@
+[
+  {
+    "name": "P1",
+    "year": "2015",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "P1",
+    "year": "2015",
+    "month": "10",
+    "quant": "1"
+  },
+  {
+    "name": "P1",
+    "year": "2016",
+    "month": "3",
+    "quant": "2"
+  },
+  {
+    "name": "P1",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "P1",
+    "year": "2016",
+    "month": "8",
+    "quant": "10"
+  },
+  {
+    "name": "P1",
+    "year": "2016",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "P1 bug",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "P1 bug",
+    "year": "2016",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2015",
+    "month": "4",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2015",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2015",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2016",
+    "month": "1",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2016",
+    "month": "2",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2016",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "P2",
+    "year": "2016",
+    "month": "8",
+    "quant": "5"
+  },
+  {
+    "name": "P3",
+    "year": "2015",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "P3",
+    "year": "2016",
+    "month": "5",
+    "quant": "2"
+  },
+  {
+    "name": "P3",
+    "year": "2016",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "better-documentation",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "better-documentation",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "better-documentation",
+    "year": "2016",
+    "month": "8",
+    "quant": "2"
+  },
+  {
+    "name": "bug",
+    "year": "2012",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2012",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2013",
+    "month": "2",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2013",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2013",
+    "month": "6",
+    "quant": "2"
+  },
+  {
+    "name": "bug",
+    "year": "2013",
+    "month": "7",
+    "quant": "4"
+  },
+  {
+    "name": "bug",
+    "year": "2013",
+    "month": "10",
+    "quant": "3"
+  },
+  {
+    "name": "bug",
+    "year": "2013",
+    "month": "11",
+    "quant": "4"
+  },
+  {
+    "name": "bug",
+    "year": "2013",
+    "month": "12",
+    "quant": "3"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "1",
+    "quant": "3"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "2",
+    "quant": "5"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "3",
+    "quant": "5"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "5",
+    "quant": "3"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "6",
+    "quant": "3"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "8",
+    "quant": "5"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "9",
+    "quant": "2"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "10",
+    "quant": "3"
+  },
+  {
+    "name": "bug",
+    "year": "2014",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2015",
+    "month": "1",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2015",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2015",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2015",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2015",
+    "month": "10",
+    "quant": "1"
+  },
+  {
+    "name": "bug",
+    "year": "2015",
+    "month": "11",
+    "quant": "2"
+  },
+  {
+    "name": "by-shiny-team",
+    "year": "2012",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "by-shiny-team",
+    "year": "2013",
+    "month": "1",
+    "quant": "1"
+  },
+  {
+    "name": "by-shiny-team",
+    "year": "2016",
+    "month": "4",
+    "quant": "1"
+  },
+  {
+    "name": "by-shiny-team",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "by-shiny-team",
+    "year": "2016",
+    "month": "8",
+    "quant": "2"
+  },
+  {
+    "name": "by-shiny-team",
+    "year": "2016",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "date-time",
+    "year": "2015",
+    "month": "4",
+    "quant": "1"
+  },
+  {
+    "name": "date-time",
+    "year": "2015",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "date-time",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2012",
+    "month": "7",
+    "quant": "3"
+  },
+  {
+    "name": "enhancement",
+    "year": "2012",
+    "month": "8",
+    "quant": "2"
+  },
+  {
+    "name": "enhancement",
+    "year": "2012",
+    "month": "10",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2012",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2012",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "1",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "2",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "7",
+    "quant": "2"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "8",
+    "quant": "3"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "10",
+    "quant": "4"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "11",
+    "quant": "2"
+  },
+  {
+    "name": "enhancement",
+    "year": "2013",
+    "month": "12",
+    "quant": "3"
+  },
+  {
+    "name": "enhancement",
+    "year": "2014",
+    "month": "1",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2014",
+    "month": "2",
+    "quant": "5"
+  },
+  {
+    "name": "enhancement",
+    "year": "2014",
+    "month": "4",
+    "quant": "1"
+  },
+  {
+    "name": "enhancement",
+    "year": "2014",
+    "month": "5",
+    "quant": "2"
+  },
+  {
+    "name": "enhancement",
+    "year": "2014",
+    "month": "6",
+    "quant": "3"
+  },
+  {
+    "name": "enhancement",
+    "year": "2014",
+    "month": "7",
+    "quant": "4"
+  },
+  {
+    "name": "enhancement",
+    "year": "2014",
+    "month": "8",
+    "quant": "2"
+  },
+  {
+    "name": "enhancement",
+    "year": "2015",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "in progress",
+    "year": "2015",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2012",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2013",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2013",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2014",
+    "month": "1",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2014",
+    "month": "6",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2014",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2015",
+    "month": "1",
+    "quant": "1"
+  },
+  {
+    "name": "invalid",
+    "year": "2015",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "maybe-security",
+    "year": "2016",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "modules",
+    "year": "2016",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "needs-upgrade",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "needs-upgrade",
+    "year": "2016",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "next-version",
+    "year": "2016",
+    "month": "8",
+    "quant": "2"
+  },
+  {
+    "name": "platform-compatibility",
+    "year": "2015",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "platform-compatibility",
+    "year": "2016",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "platform-compatibility",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "platform-compatibility",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "platform-compatibility",
+    "year": "2016",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2012",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2013",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2013",
+    "month": "10",
+    "quant": "2"
+  },
+  {
+    "name": "question",
+    "year": "2013",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2013",
+    "month": "12",
+    "quant": "2"
+  },
+  {
+    "name": "question",
+    "year": "2014",
+    "month": "2",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2014",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2014",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2014",
+    "month": "10",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2014",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "question",
+    "year": "2015",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "request",
+    "year": "2012",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "request",
+    "year": "2016",
+    "month": "4",
+    "quant": "3"
+  },
+  {
+    "name": "request",
+    "year": "2016",
+    "month": "5",
+    "quant": "2"
+  },
+  {
+    "name": "request",
+    "year": "2016",
+    "month": "7",
+    "quant": "2"
+  },
+  {
+    "name": "request",
+    "year": "2016",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "review",
+    "year": "2016",
+    "month": "8",
+    "quant": "2"
+  },
+  {
+    "name": "review",
+    "year": "2016",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "select-input",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "select-input",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "targeted",
+    "year": "2016",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "targeted",
+    "year": "2016",
+    "month": "8",
+    "quant": "9"
+  },
+  {
+    "name": "update-input",
+    "year": "2016",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "update-input",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "waiting for reply",
+    "year": "2015",
+    "month": "9",
+    "quant": "1"
+  },
+  {
+    "name": "waiting for reply",
+    "year": "2015",
+    "month": "12",
+    "quant": "1"
+  },
+  {
+    "name": "waiting for reply",
+    "year": "2016",
+    "month": "3",
+    "quant": "1"
+  },
+  {
+    "name": "waiting for reply",
+    "year": "2016",
+    "month": "4",
+    "quant": "1"
+  },
+  {
+    "name": "waiting for reply",
+    "year": "2016",
+    "month": "5",
+    "quant": "1"
+  },
+  {
+    "name": "waiting for reply",
+    "year": "2016",
+    "month": "7",
+    "quant": "1"
+  },
+  {
+    "name": "waiting for reply",
+    "year": "2016",
+    "month": "8",
+    "quant": "1"
+  },
+  {
+    "name": "wontfix",
+    "year": "2012",
+    "month": "11",
+    "quant": "1"
+  },
+  {
+    "name": "wontfix",
+    "year": "2013",
+    "month": "10",
+    "quant": "1"
+  },
+  {
+    "name": "wontfix",
+    "year": "2014",
+    "month": "7",
+    "quant": "1"
+  }
+]
